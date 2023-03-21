@@ -11,4 +11,11 @@ fun main ()
     {
       println ("$b")
     }
+    
+  /*  println(a.get(3))
+    
+    a.set(6,"Kotlin")
+    for(b in a){
+        println("$b")
+    } */
 }
